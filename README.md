@@ -84,5 +84,3 @@ python vibescan.py https://target.com --scan --timeout 15
 ```
 
 ---
-
-> ⚠️ For educational and authorized testing only. Do not use against systems you don't own.
